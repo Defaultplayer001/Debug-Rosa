@@ -17,7 +17,7 @@ Star-LoRED (/u/Defaultplayer001) for writing an in-depth documentation for debug
 #**Supported versions**
 
 0.25
-#**Important Note**
+##**Important Note**
 
 The download link is hosted separatley from GitHub for security reasons. The modified executables are the sole property of Cryptic Sea, and are to be used for educational purposes only. We are not responsible and do not condone any malicious activity used with these modified executables.
 
