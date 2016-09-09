@@ -138,7 +138,7 @@ Controls:
 
 **+** & **=**: Toggles the "Press F1 to toggle help" text, does not actually let you toggle help, as F1 still goes to the block editing tool.
 
-``**I**``: Slow-mo
+``I``: Slow-mo
 
 **O**: Toggle pause
 
