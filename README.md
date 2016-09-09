@@ -10,30 +10,30 @@ Welcome to the debugrosa.exe readme.txt! These are unofficial patched Sub Rosa e
 
 On behalf of all [srs] I hope you enjoy!
 
-**Credits**
+#**Credits**
 
 NAMEREDACTED for finding debug mode and patching the executables.
 Star-LoRED (/u/Defaultplayer001) for writing an in-depth documentation for debug mode.
-**Supported versions**
+#**Supported versions**
 
 0.25
-**Important Note**
+#**Important Note**
 
 The download link is hosted separatley from GitHub for security reasons. The modified executables are the sole property of Cryptic Sea, and are to be used for educational purposes only. We are not responsible and do not condone any malicious activity used with these modified executables.
 
-**Installation****
+#**Installation****
 
 Simply place each executable in your Sub Rosa root directory.
 
 It should be in C:\Program Files (x86)\Steam\steamapps\common\Sub Rosa
 
-**Download**
+#**Download**
 
 (to be linked)
 
 Note on custom textures: The editor will load any textures of the right file type/size located in the /data/textures directory. So fully custom textures ARE possible. However, it is not as simple as click to add, it's really finicky, but there is a method. I will research more and post a reliable method.
 
-**Main Menu Hotkeys**
+#**Main Menu Hotkeys**
 
 E = Editor
 D = Practice
@@ -42,7 +42,7 @@ V = Voice Options
 J = Join
 U = User list?
 O = Options
-**Editor**
+#**Editor**
 
 Funtion key tools: Press F1 to enter the function tools "menu" then F1-F6 for editing tools, detailed below.
 
