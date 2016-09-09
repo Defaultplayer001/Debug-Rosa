@@ -46,7 +46,7 @@ O = Options
 
 Funtion key tools: Press F1 to enter the function tools "menu" then F1-F6 for editing tools, detailed below.
 
-F1: Block tools
+#**F1: Block tools**
 
 1: Block
 
@@ -64,37 +64,37 @@ Left click to place, Right click to delete.
 
 Same as above, haven't worked out how the differ exactly, but, some models seem to display odditites if placed under one and not the other.
 
-F2: Edge tools
+**F2: Edge tools**
 
         1-0, select model to place.
         Left click to place, Right click to delete
-F3: Area
+**F3: Area**
 
     Seems to set base's hire area+hosptial healing area. Further testing needed.
     Click+drag to set area
-F4 :Objects
+**F4 :Objects**
 
     Seems to control AI building disc spawn location. Further testing needed.
-F5: Tile types
+**F5: Tile types**
 
     Select a tile from lower section, and click import to add to the current building's available tiles.
     You can also delete them from the available tiles, but I've yet to find a compelling reason to ever do this.
-F6: Models
+**F6: Models**
 
     Select a Model from lower section, and click insert to add to the current building's available tiles.
     You can also delete them from the available tiles, but I've yet to find a compelling reason to ever do this.
-R: Up 1 level
+**R**: Up 1 level
 
-F: Down 1 level
+**F**: Down 1 level
 
-- & =: Block type too, All of them but
+**-** & **=**: Block type too, All of them but
 
 Key's next to 0, for extra clarification, *not* numpad.
-Practice Mode
+**Practice Mode**
 
 Funtion key tools: Press F1 to enter the function tools "menu". Then F1-F3 for editing tools, detailed below.
 
-F1: Street Tools
+**F1: Street Tools**
 
 Left click anywhere to place a street corner, represented by a green dot, after placing one, place another that is parallel to create a street.
 
@@ -104,56 +104,58 @@ Left click on the newly created street, by default named "Street" to bring up a 
 
 Right click green dots to disable them.
 
-F2: Sidewalk Tools
+**F2: Sidewalk Tools**
 
 Left click a model type to place, right click to delete.
 
-F3: Building tools
+**F3: Building tools**
 
 Left click on the building you want to place.
 
-Hold E: Ready placement, press left mouse button to place.
+**Hold E**: Ready placement, press left mouse button to place.
 
-R & F: Cycle through building types, the list will not show them all, so you will have to use the cycle keys to select all building types.
+**R** & **F**: Cycle through building types, the list will not show them all, so you will have to use the cycle keys to select all building types.
 
-T: Rotate
+**T**: Rotate
 
 In-game Controls
 
-6: Freecam
+**6**: Freecam
 
 Controls:
 
-W,A,S, & D: Movement Hold Right mouse button to look around. Q: Up Z: Down
+**W**,**A**,**S**,**D**: Movement Hold Right mouse button to look around. 
+**Q**: Up 
+**Z**: Down
 
-7: Original body
+**7**: Original body
 
-8: AI body 1 if available
+**8**: AI body 1 if available
 
-9: AI body 2 if available
+**9**: AI body 2 if available
 
-0: AI body 3 if available
+**0**: AI body 3 if available
 
-+ & =: Toggles the "Press F1 to toggle help" text, does not actually let you toggle help, as F1 still goes to the block editing tool.
+**+** & **=**: Toggles the "Press F1 to toggle help" text, does not actually let you toggle help, as F1 still goes to the block editing tool.
 
-I: Slow-mo
+**I**: Slow-mo
 
-O: Toggle pause
+**O**: Toggle pause
 
-P: Pause simulation
+**P**: Pause simulation
 
-K: Render shadow maps
+**K**: Render shadow maps
 
-[ & ]: Adjust day/night cycle
+**[** & **]**: Adjust day/night cycle
 
-,: Debug info(?)
+**,**: Debug info(?)
 
-X: 3rd-person camera
+**X**: 3rd-person camera
 
-B: Render everything in wireframe for "moving" models
+**B**: Render everything in wireframe for "moving" models
 
-F5: Refresh map
+**F5**: Refresh map
 
-F6: Render the entire scene in wireframe mode
+**F6**: Render the entire scene in wireframe mode
 
-F11: Cycle through various debugging information
+**F11**: Cycle through various debugging information
