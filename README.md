@@ -48,7 +48,7 @@ Funtion key tools: Press F1 to enter the function tools "menu" then F1-F6 for ed
 
 #**F1: Block tools**
 
-1: Block
+**``1``**: Block
 
 Y: Toggle floor
 
