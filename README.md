@@ -4,7 +4,7 @@ This is the first release, I have attempted to be as thorough as possible, howev
 
 Please report any strange behavior/discovered keypress/editing methods on the /r/subrosanrc subreddit or by making an issue on github!
 
-**DebugRosa**
+#**DebugRosa**
 
 Welcome to the debugrosa.exe readme.txt! These are unofficial patched Sub Rosa executables that enable debug mode. Nearly all copies of Sub Rosa already have debug mode embedded inside them, they just havent been enabled.
 
